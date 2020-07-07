@@ -1,0 +1,7 @@
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\obj\Debug\Responsi_pemrograman_2687.csprojAssemblyReference.cache
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\obj\Debug\Responsi_pemrograman_2687.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\bin\Debug\Responsi_pemrograman_2687.exe.config
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\bin\Debug\Responsi_pemrograman_2687.exe
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\bin\Debug\Responsi_pemrograman_2687.pdb
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\obj\Debug\Responsi_pemrograman_2687.exe
+C:\Users\HP OMEN\source\repos\Responsi_pemrograman_2687\Responsi_pemrograman_2687\obj\Debug\Responsi_pemrograman_2687.pdb
